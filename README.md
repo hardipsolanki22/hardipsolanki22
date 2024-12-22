@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Nodejs
+I'm currently learning NodeJs
 
 
 # 💻 Tech Stack:
