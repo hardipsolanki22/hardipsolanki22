@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning NextJS and making large ecommerce project
+<h2 align="center"> I'm currently learning NextJS and making large ecommerce project </h2>
 
 
 # 💻 Tech Stack:
