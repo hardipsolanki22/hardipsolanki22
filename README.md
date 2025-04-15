@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning NodeJs
+I'm currently learning NextJS and making large ecommerce project
 
 
 # 💻 Tech Stack:
