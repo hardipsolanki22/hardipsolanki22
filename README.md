@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Hardip Solanki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Next.js+%7C+MERN+Stack+%7C+PHP+Expert;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Next.js+%7C+MERN+Stack;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 Currently Building: Large Scale E-commerce Project</h2>
